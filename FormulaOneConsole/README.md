@@ -1,6 +1,6 @@
 ## Provided Code
 
-The code below will be added to a Console app Program.cs as it was provided. 
+The code below will be added to the Console app Program.cs as it was provided initially. 
 
 ```
 using System.Net.Http.Json;
